@@ -1,6 +1,6 @@
 # AMS Documentation
 
-[AMS Wiki](https://github.com/CaptainSpauldings/AMS-Doc/wiki)
+[AMS Wiki](https://github.com/CaptainSpauldings/AMS-Doc/wiki)  
 [AMS Source code](https://github.com/CaptainSpauldings/AMS)  
 [AMS Discussion](https://github.com/orgs/CaptainSpauldings/teams/amsdevteam)  
 [AMS Open Issues](https://github.com/CaptainSpauldings/AMS/issues)  
