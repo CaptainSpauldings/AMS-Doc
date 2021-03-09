@@ -1,4 +1,4 @@
-# Advanced Management System Wiki
+# Advanced Management System
 
 ![Read the Doc!](https://github.com/CaptainSpauldings/AMS-Doc/raw/main/Images/Belushi/Read_the_doc.jpg)
 
